@@ -27,14 +27,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f492dbd5-13e8-48aa-8ad4-d010aca26811" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Test.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Test2.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shims-vue.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Doc.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Home.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/views/Doc.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TopNav.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/views/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +66,10 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\vue\vue3-ui\src" />
+      <recent name="D:\code\vue\vue3-ui\src\components\views" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\code\vue\vue3-ui\src\components" />
     </key>
@@ -98,8 +102,24 @@
       <workItem from="1606611611928" duration="3168000" />
       <workItem from="1606649969811" duration="690000" />
       <workItem from="1606650781548" duration="1391000" />
-      <workItem from="1606658480232" duration="354000" />
+      <workItem from="1606658480232" duration="929000" />
+      <workItem from="1606913952817" duration="1717000" />
     </task>
+    <task id="LOCAL-00001" summary="初始化router&amp;引入兼容.vue文件">
+      <created>1606659099513</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606659099513</updated>
+    </task>
+    <task id="LOCAL-00002" summary="创建首页和文档页">
+      <created>1606915070628</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606915070628</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,11 +154,38 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="初始化router&amp;引入兼容.vue文件" />
+    <MESSAGE value="创建首页和文档页" />
+    <option name="LAST_COMMIT_MESSAGE" value="创建首页和文档页" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="496" y="96" key="CommitChangelistDialog2" timestamp="1606650067295">
+    <state x="308" y="65" width="1323" height="828" key="CommitChangelistDialog2" timestamp="1606915069013">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="496" y="96" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606650067295" />
+    <state x="308" y="65" width="1323" height="828" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606915069013" />
+    <state x="157" y="76" key="DiffContextDialog" timestamp="1606658953777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="157" y="76" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606658953777" />
+    <state width="1900" height="282" key="GridCell.Tab.0.bottom" timestamp="1606659303983">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606659303983" />
+    <state width="1900" height="282" key="GridCell.Tab.0.center" timestamp="1606659303983">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606659303983" />
+    <state width="1900" height="282" key="GridCell.Tab.0.left" timestamp="1606659303983">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606659303983" />
+    <state width="1900" height="282" key="GridCell.Tab.0.right" timestamp="1606659303983">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606659303983" />
     <state x="743" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606650862673">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
