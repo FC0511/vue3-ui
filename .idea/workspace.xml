@@ -80,7 +80,7 @@
       <workItem from="1606658480232" duration="929000" />
       <workItem from="1606913952817" duration="2627000" />
       <workItem from="1609028905551" duration="146000" />
-      <workItem from="1609029087036" duration="1718000" />
+      <workItem from="1609029087036" duration="2516000" />
     </task>
     <task id="LOCAL-00001" summary="初始化router&amp;引入兼容.vue文件">
       <created>1606659099513</created>
@@ -103,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606915730630</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="用 provide 和 inject 实现aside切换功能">
+      <created>1609031092208</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609031092208</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,17 +151,18 @@
     <MESSAGE value="初始化router&amp;引入兼容.vue文件" />
     <MESSAGE value="创建首页和文档页" />
     <MESSAGE value="封装TopNav" />
-    <option name="LAST_COMMIT_MESSAGE" value="封装TopNav" />
+    <MESSAGE value="用 provide 和 inject 实现aside切换功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="用 provide 和 inject 实现aside切换功能" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="308" y="65" width="1323" height="828" key="CommitChangelistDialog2" timestamp="1606915728666">
+    <state x="308" y="65" width="1323" height="828" key="CommitChangelistDialog2" timestamp="1609031090544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="308" y="65" width="1323" height="828" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606915728666" />
-    <state x="157" y="76" width="1536" height="861" key="DiffContextDialog" timestamp="1609030290708">
+    <state x="308" y="65" width="1323" height="828" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1609031090544" />
+    <state x="157" y="76" width="1536" height="861" key="DiffContextDialog" timestamp="1609031087200">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="157" y="76" width="1536" height="861" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609030290708" />
+    <state x="157" y="76" width="1536" height="861" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609031087200" />
     <state width="1900" height="348" key="GridCell.Tab.0.bottom" timestamp="1609030490560">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
