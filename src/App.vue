@@ -4,6 +4,7 @@
 
 <script lang="ts">
 import {ref, provide} from 'vue'
+import {router} from "./router";
 
 export default {
   name: 'App',
@@ -13,6 +14,12 @@ export default {
     // ref函数只能监听简单类型的变化  简单值使用ref,复杂值使用reactive
     const asideVisible = ref(winWidth > 500);
     provide('asideVisible', asideVisible)
+
+    router.afterEach(() => {
+      if (winWidth <= 500) {
+        asideVisible.value = false;
+      }
+    });
   }
 }
 </script>

@@ -1,39 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand />
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f492dbd5-13e8-48aa-8ad4-d010aca26811" name="Default Changelist" comment="添加toggleAside 按钮在手机端切换显示">
-      <change afterPath="$PROJECT_DIR$/src/components/ButtonDemo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/DialogDemo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/DocDemo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SwitchDemo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TabsDemo.vue" afterDir="false" />
+    <list default="true" id="43a3baab-9850-46c2-821e-9cf49501f735" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/router.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vue3-ui.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vue3-ui.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TopNav.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TopNav.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Doc.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Doc.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Vue Single File Component" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1kwVOjA8w2cUNUUkpqUOqZrXA67" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1mDgoYKlg9KDLYaY2lftBw1yJxP" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,202 +24,22 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
-    <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="D:\IDE\WebStorm\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\code\vue\vue3-ui\src\components" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\code\vue\vue3-ui\src" />
-      <recent name="D:\code\vue\vue3-ui\src\components\views" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="dev" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="npm.dev" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f492dbd5-13e8-48aa-8ad4-d010aca26811" name="Default Changelist" comment="" />
-      <created>1606611610860</created>
+      <changelist id="43a3baab-9850-46c2-821e-9cf49501f735" name="Default Changelist" comment="" />
+      <created>1609033755421</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1606611610860</updated>
-      <workItem from="1606611611928" duration="3168000" />
-      <workItem from="1606649969811" duration="690000" />
-      <workItem from="1606650781548" duration="1391000" />
-      <workItem from="1606658480232" duration="929000" />
-      <workItem from="1606913952817" duration="2627000" />
-      <workItem from="1609028905551" duration="146000" />
-      <workItem from="1609029087036" duration="4032000" />
+      <updated>1609033755421</updated>
+      <workItem from="1609033757810" duration="274000" />
     </task>
-    <task id="LOCAL-00001" summary="初始化router&amp;引入兼容.vue文件">
-      <created>1606659099513</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1606659099513</updated>
-    </task>
-    <task id="LOCAL-00002" summary="创建首页和文档页">
-      <created>1606915070628</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1606915070628</updated>
-    </task>
-    <task id="LOCAL-00003" summary="封装TopNav">
-      <created>1606915730630</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1606915730630</updated>
-    </task>
-    <task id="LOCAL-00004" summary="用 provide 和 inject 实现aside切换功能">
-      <created>1609031092208</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1609031092208</updated>
-    </task>
-    <task id="LOCAL-00005" summary="添加toggleAside 按钮在手机端切换显示">
-      <created>1609031912349</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1609031912349</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="CUSTOM_BOOLEAN_PROPERTIES">
-                <map>
-                  <entry key="Show.Git.Branches" value="false" />
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="初始化router&amp;引入兼容.vue文件" />
-    <MESSAGE value="创建首页和文档页" />
-    <MESSAGE value="封装TopNav" />
-    <MESSAGE value="用 provide 和 inject 实现aside切换功能" />
-    <MESSAGE value="添加toggleAside 按钮在手机端切换显示" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加toggleAside 按钮在手机端切换显示" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="482" y="191" width="1323" height="828" key="CommitChangelistDialog2" timestamp="1609031954949">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="482" y="191" width="1323" height="828" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1609031954949" />
-    <state x="157" y="76" width="1536" height="861" key="DiffContextDialog" timestamp="1609031087200">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="157" y="76" width="1536" height="861" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609031087200" />
-    <state width="1900" height="348" key="GridCell.Tab.0.bottom" timestamp="1609030490560">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1900" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609030490560" />
-    <state width="1900" height="348" key="GridCell.Tab.0.center" timestamp="1609030490560">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1900" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609030490560" />
-    <state width="1900" height="348" key="GridCell.Tab.0.left" timestamp="1609030490560">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1900" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609030490560" />
-    <state width="1900" height="348" key="GridCell.Tab.0.right" timestamp="1609030490560">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1900" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609030490560" />
-    <state width="1900" height="348" key="GridCell.Tab.1.bottom" timestamp="1609030490560">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1900" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609030490560" />
-    <state width="1900" height="348" key="GridCell.Tab.1.center" timestamp="1609030490560">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1900" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609030490560" />
-    <state width="1900" height="348" key="GridCell.Tab.1.left" timestamp="1609030490560">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1900" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609030490560" />
-    <state width="1900" height="348" key="GridCell.Tab.1.right" timestamp="1609030490560">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1900" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609030490560" />
-    <state width="1900" height="348" key="GridCell.Tab.2.bottom" timestamp="1609030490560">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1900" height="348" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609030490560" />
-    <state width="1900" height="348" key="GridCell.Tab.2.center" timestamp="1609030490560">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1900" height="348" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609030490560" />
-    <state width="1900" height="348" key="GridCell.Tab.2.left" timestamp="1609030490560">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1900" height="348" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609030490560" />
-    <state width="1900" height="348" key="GridCell.Tab.2.right" timestamp="1609030490560">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1900" height="348" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609030490560" />
-    <state width="1900" height="348" key="GridCell.Tab.3.bottom" timestamp="1609030490560">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1900" height="348" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609030490560" />
-    <state width="1900" height="348" key="GridCell.Tab.3.center" timestamp="1609030490560">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1900" height="348" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609030490560" />
-    <state width="1900" height="348" key="GridCell.Tab.3.left" timestamp="1609030490560">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1900" height="348" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609030490560" />
-    <state width="1900" height="348" key="GridCell.Tab.3.right" timestamp="1609030490560">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1900" height="348" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609030490560" />
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1609031914144">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1609031914144" />
-    <state x="743" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606650862673">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="743" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606650862673" />
   </component>
 </project>
